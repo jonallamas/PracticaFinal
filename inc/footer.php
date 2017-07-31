@@ -8,8 +8,14 @@
 		</div>
 	</footer>
 
-    <div class="chat-fixed">
+    <!-- <div class="chat-fixed">
       <a href="#" class="botonAyuda"><i class="fa fa-question-circle-o" aria-hidden="true"></i> Ayuda</a>
+    </div> -->
+
+    <div class="chatFixed">
+        <a class="chat-fixed">
+          <span class="botonAyuda"><i class="fa fa-question-circle-o" aria-hidden="true"></i> Ayuda</span>
+        </a>
     </div>
 
     <div class="cont-chat">
